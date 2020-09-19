@@ -1,0 +1,156 @@
+body{
+    margin:0;
+    padding:0;
+    color: white;
+    font-family: 'Prompt', sans-serif;
+    font-size: 15px;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+margin: 0;
+padding: 0;
+}
+
+p{
+margin: 0;
+padding: 0;
+}
+
+
+.header{
+    background-color: black;
+    padding-bottom: 100px;
+    padding-top: 45px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+
+
+.container{
+    margin-left: 42px;
+    margin-right: 42px;    
+}
+.coll{
+font-size: 14px;
+margin-left: 738px;
+}
+.text{
+    color: #808080;
+}
+.phone{
+margin-left: 5px;
+}
+.menu{
+    display: block; 
+    margin-left: auto;
+}
+.menu span {
+    background:#FFF;
+    display: block; 
+    width: 34px;
+    height: 2px;
+    margin-bottom: 5px;
+}
+
+.header-content{
+    margin-top:83px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.help-text{
+    font-family: 'Teko', sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Prompt', sans-serif;
+    font-style: italic;
+    font-size: 53px;
+    margin-bottom: 20px;
+}
+
+.introtext{
+    width: 651px;
+font-family: 'Prompt', sans-serif;
+font-style: italic;
+font-size: 22px;
+margin-bottom: 200px;
+}
+
+.order{
+    font-size: 22px;
+    color:#FF7373;
+    border: 1px solid #FF7373;
+    border-radius: 100px;
+    padding: 17px 19px;
+    text-decoration: none;
+    transition: all 0.5s ease;
+   
+   
+    
+}
+.order:hover{
+    background: #FF7373;
+    border: 1px solid #FF7373;
+    color: white;
+  
+}
+
+
+
+
+.shr-img{
+    width: 99%;
+}
+
+
+
+.slider-menu{
+    display: flex;
+    align-items: center;
+    margin-left: 255px;
+  
+    
+}
+
+.knopka{
+    font-family: arial, sans-serif;
+    font-size: 15px; 
+   
+}
+.triggers{
+    display: flex;  
+    justify-content: space-between;
+    width: 130px;
+    
+    
+    
+}
+.triggers span{
+width: 36px;
+height: 36px;
+border: 1px solid white;
+border-radius: 50%; 
+line-height: 36px;
+text-align: center;
+display: block;
+align-items: center;
+opacity: 0.41;
+}
+.triggers span.active{
+    opacity: 1;
+    }
+.slider{
+    margin-top: 180px;
+}
+
+
+ 
